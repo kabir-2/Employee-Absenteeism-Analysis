@@ -15,3 +15,5 @@ Steps in which we will do the project:<br>
 2. <b>Machine Learning:<b> In this section, I developed a logistic regression model that will predict the probability of an individual being absent from work. The Python module which results from this work will be used for further analysis.<br>
 3. Loading module from the previous operation and integrating Python and SQL: Here I loaded the module to generate predictions. Further, I integrated Jupyter Notebook with MySQL workbench to show how Python and SQL can be connected. The dataset obtained from this will be used for further analysis and visualization.<br>
 4. Analyzing predicted outputs in Tableau: At last, I used Tableau to analyze three separate dependencies between inputs and the model obtained.<br>
+
+Tableau Visualizations:-https://public.tableau.com/views/AbsenteeismVisualizations_17188894268350/AgevsProbability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
